@@ -7,6 +7,7 @@ import javax.swing.*;
 import javax.swing.table.TableModel;
 
 import domain.Covid19Pacient;
+import domain.SymptomsFactory;
 
 
 public class ShowPacientTableGUI extends JFrame{

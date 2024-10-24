@@ -3,6 +3,7 @@ package adapter2;
 import javax.swing.table.AbstractTableModel;
 
 import domain.Covid19Pacient;
+import domain.SymptomsFactory;
 
 public class Covid19PacientTableModelAdapter extends AbstractTableModel {
 	  protected Covid19Pacient pacient;
